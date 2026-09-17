@@ -48,7 +48,7 @@ Error-Traking-and-Alerting-System/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/gauravrao8382/Error-Traking-and-Alerting-System.git
+git clone https://github.com/Nitish-95/error-tracking-and-alerting-system.git
 cd Error-Traking-and-Alerting-System
 ```
 
